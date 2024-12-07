@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Tech Innovators",
+        "images": "https://example.com/images/tech_innovators.png",
+        "alt": "Tech Innovators Logo",
+        "description": "Tech Innovators is a cutting-edge technology company that specializes in AI and machine learning solutions.",
+        "link": "https://techinnovators.com",
+        "city": "San Francisco"
+    },
+    {
+        "name": "Green Future",
+        "images": "https://example.com/images/green_future.png",
+        "alt": "Green Future Logo",
+        "description": "Green Future is a sustainable energy startup focused on solar and wind power innovations.",
+        "link": "https://greenfuture.com",
+        "city": "Austin"
+    },
+    {
+        "name": "HealthSync",
+        "images": "https://example.com/images/healthsync.png",
+        "alt": "HealthSync Logo",
+        "description": "HealthSync offers a platform that connects patients with healthcare providers using telemedicine solutions.",
+        "link": "https://healthsync.com",
+        "city": "New York"
+    },
+    {
+        "name": "EduTech Hub",
+        "images": "https://example.com/images/edutech_hub.png",
+        "alt": "EduTech Hub Logo",
+        "description": "EduTech Hub provides interactive e-learning platforms designed for students and educators.",
+        "link": "https://edutechhub.com",
+        "city": "Boston"
+    },
+    {
+        "name": "FinStart",
+        "images": "https://example.com/images/finstart.png",
+        "alt": "FinStart Logo",
+        "description": "FinStart is a fintech startup revolutionizing the banking experience with AI-powered tools.",
+        "link": "https://finstart.com",
+        "city": "Chicago"
+    }
+]
